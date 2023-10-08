@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arjun Varshney
-- 👀 I’m interested in making Andorid applications and building websites
-- 🌱 I’m currently learning Android development
+- 👀 I’m interested in building websites and making machine learning models
+- 🌱 I’m currently learning deep learning
 
 <!---
 ArjunVarshney/ArjunVarshney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
