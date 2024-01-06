@@ -1,3 +1,5 @@
+<img src="/banner.png" width="100%" alt="banner image"/>
+
 # 💫 About Me:
 Passionate about both machine learning and full-stack web development, I'm a versatile tech enthusiast dedicated to crafting innovative solutions. With a foundation in machine learning algorithms and a flair for front-end and back-end technologies, I thrive on blending data-driven insights with seamless user experiences. My aim is to create impactful applications that transcend boundaries and simplify complexities.
 
